@@ -3,7 +3,7 @@
 int main() {
     char operation;
     double num1;
-    why    num2;
+    double    num2;
 
     std::cout << "Enter first number: ";
     std::cin >> num1;
