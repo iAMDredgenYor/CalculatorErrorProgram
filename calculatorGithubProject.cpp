@@ -1,5 +1,5 @@
 #include <iostream>
-
+///change why on num2
 int main() {
     char operation;
     double num1;
